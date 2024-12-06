@@ -1,6 +1,6 @@
 Repo for FullstackOpen exercises. 
 
-
+```mermaid
 sequenceDiagram
     participant browser
     participant server
@@ -9,3 +9,4 @@ sequenceDiagram
     activate server
     server-->>browser: HTML document
     deactivate server
+```
